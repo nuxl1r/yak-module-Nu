@@ -3,7 +3,7 @@
     "tags": [
         ""
     ],
-    "help": "RCE-EXP",
+    "help": "S2-048",
     "author": "Nuxl1r",
     "module_file": "yak_module.yak",
     "params": [
