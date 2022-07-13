@@ -1,5 +1,5 @@
-🐲# yak-module-zh
-yak的poc、exp库，根据vulhub中的漏洞进行调试和编写，持续更新！。
+# 🐲yak-module-zh
+yak的poc、exp库，根据vulhub中的漏洞进行调试和编写，持续更新！
 
 - 😼未分类 =-=
   -  CVE-2021-28169
