@@ -18,7 +18,7 @@ yak的poc、exp库，根据vulhub中的漏洞进行调试和编写，持续更�
 - 🦄Struts2：
   - CVE-2021-31805 --EXP
   - CVE-2021-31805 --POC
-  - CVE-2017-9791 --EXP S2-048
-  - CVE-2020-17530 --EXP s2-059
+  - S2-048 --EXP
+  - s2-059 --EXP
   
   
